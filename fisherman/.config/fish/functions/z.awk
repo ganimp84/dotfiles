@@ -1,1 +1,0 @@
-/home/gani/.config/fisherman/z/functions/z.awk
