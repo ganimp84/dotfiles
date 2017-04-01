@@ -1,0 +1,1 @@
+/Users/gani/.config/fisherman/getopts/getopts.fish
